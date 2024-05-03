@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/bunnyItem"
+        android:title="@string/choice1"
+        android:orderInCategory="100"
+        android:icon="@drawable/bunny"
+        app:showAsAction="always|collapseActionView"/>
+
+    <item android:id="@+id/catItem"
+        android:title="@string/choice2"
+        android:orderInCategory="50"
+        android:icon="@drawable/cat"
+        app:showAsAction="always|collapseActionView"/>
+
+
+</menu>

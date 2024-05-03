@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">Lab_8</string>
+    <string name="choice1">Choice 1</string>
+    <string name="choice2">Choice 2</string>
+    <string name="bunnyMsg">You pressed on a bunny!</string>
+    <string name="catMsg">You pressed on a cat!</string>
+    <string name="open">Open Navigation Drawer</string>
+    <string name="close">Close Navigation Drawer</string>
+    <string name="question">What do you get from a pampered cow?</string>
+    <string name="answer">Spoiled milk!</string>
 </resources>
